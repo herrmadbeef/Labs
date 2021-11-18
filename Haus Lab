@@ -1,10 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-06-30T17:18:16.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36" etag="l3i6-THLHSKZlLHqgxM5" version="14.7.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-18T20:01:36.978Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="jdnrFH0sXkdwVkdn2hOI" version="15.6.8" type="github">
   <diagram id="ziCfBf1C8xH1HovymCpO" name="Page-1">
-    <mxGraphModel dx="2062" dy="1065" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2062" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aDcxSJGQZ4_Xu7x7LcJK-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" parent="1" source="cs7Ye82TN7tGePl7KdY6-2" target="aDcxSJGQZ4_Xu7x7LcJK-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="547_t2oRAAJ6O1vxPZGG-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cs7Ye82TN7tGePl7KdY6-2" target="547_t2oRAAJ6O1vxPZGG-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cs7Ye82TN7tGePl7KdY6-2" value="" style="aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;shape=mxgraph.mscae.enterprise.firewall;fillColor=#00188D;" parent="1" vertex="1">
@@ -45,6 +48,9 @@
         </mxCell>
         <mxCell id="aDcxSJGQZ4_Xu7x7LcJK-9" value="eth1/1&lt;br&gt;New_POS_VLAN" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="718" y="416.36" width="110" height="43.64" as="geometry" />
+        </mxCell>
+        <mxCell id="547_t2oRAAJ6O1vxPZGG-1" value="" style="shape=mxgraph.cisco.modems_and_phones.cable_modem;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="110" width="74" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
